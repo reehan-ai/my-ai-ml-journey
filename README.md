@@ -5,7 +5,7 @@ My AI Journey
 Hi, I am Mohd Reehan . I am pursuing a BCA_New from IGNOU and want to become an AI/ML Engineer.
 
 What’s in This Repo ?
-Notes and code for Python basics
+code for Python basics
 
 Practice projects for AI/ML
 
